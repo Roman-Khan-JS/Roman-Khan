@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Nest JS & Python**
 
-- 📫 How to reach me **developerromankhan55@gmail**
+- 📫 How to reach me **developerromankhan55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
